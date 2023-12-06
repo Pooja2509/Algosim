@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AlgoSim/Change_Scene.cs">
+    <Files>
+      <File FileName="Assets/AlgoSim/Button_sound.cs" Line="1" Column="1" />
+      <File FileName="Assets/AlgoSim/Change_Scene.cs" Line="1" Column="1" />
+      <File FileName="Assets/AlgoSim/Scene1Script.cs" Line="1" Column="1" />
+      <File FileName="Assets/LinkedList/LinkedList.cs" Line="1" Column="1" />
+      <File FileName="Assets/LinkedList/LinkedList1.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/data.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/inputIS.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/control.cs" Line="1" Column="1" />
+      <File FileName="Assets/Menu_options/Sortng.cs" Line="1" Column="1" />
+      <File FileName="Assets/Menu_options/operatingSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Menu_options/DataStructure.cs" Line="1" Column="1" />
+      <File FileName="Assets/DS/DS.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/boxscript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
